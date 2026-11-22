@@ -9,6 +9,6 @@
     "version_number": "2.5",
     "min_os_version": "Windows 10",
     "installer": "installer_output/AI去背景工具_v2.5_安装包.exe",
-    "release_notes": "2.4 → 2.5：更新第三方组件许可声明与开源地址；修复若干已知问题。"
+    "release_notes": "2.5 → 2.5：更新第三方组件许可声明与开源地址；修复若干已知问题。"
   }
 }
