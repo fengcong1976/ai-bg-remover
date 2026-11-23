@@ -1,5 +1,6 @@
 # ai-bg-remover
 
+> 免费下载与图文教程：<https://www.mrheedu.com/apps/ai-bg-remover>　·　更多免费软件：[www.mrheedu.com](https://www.mrheedu.com)
 AI去背景工具是一款本地运行的智能抠图软件，内置 U²-Net 深度学习模型与纯色幕布去背双引擎。加载图片或视频后，左侧预览框即时呈现去背结果，透明区域以棋盘格显示；人物、商品、复杂背景交给 AI 自动抠图，绿幕、蓝幕、纯色底素材则可在画面上直接点选颜色，配合容差与边缘参数快速去除，速度约为 AI 的 20 倍。支持透明背景、指定纯色、背景图片、背景视频四种合成方式，图片输出透明 PNG，视频输出 H.264 MP4。全程离线，文件不上传云端，无需注册，永久免费。 本应用已开源（GPL-3.0）：https://gitee.com/FC1976/ai-bg-remover（GitHub 镜像：https://github.com/fengcong1976/ai-bg-remover）。
 
 ## 运行
